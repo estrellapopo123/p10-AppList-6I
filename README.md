@@ -22,8 +22,9 @@ samples, guidance on mobile development, and a full API reference.
 
 - Link referencia [https://flutlab.io/docs](https://codesinsider.com/flutter-listview-example/?expand_article=1#google_vignette)
 
-- Christian Alcantara a.21308051280308@cbtis128.edu.mx
+- Jessica Salas a.213080512800405@cbtis128.edu.mx
 
 ## resultado de mi Aplicacion en Flutter
-![image](https://github.com/Chris12066/p10-appList-6I/assets/143772165/7591d21c-ada4-4bb7-b8f0-d1e57670d3a2)
+![image](https://github.com/estrellapopo123/p10-AppList-6I/assets/144378353/031598da-329a-4434-b00b-7f954cef0005)
+
 
